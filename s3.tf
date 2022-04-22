@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "testing" {
-   bucket = "adhavishal"
+   bucket = "adhavvishal"
    acl = "private"
    versioning {
       enabled = false
